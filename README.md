@@ -16,6 +16,7 @@ This is my personal portfolio website built with Django.
 * HTML5
 * CSS3
 * Bootstrap
+  
 
 ## Installation
 
@@ -28,4 +29,6 @@ python manage.py runserver
 
 ## Author
 
-Shubham Chauhan
+Shubham Chauhan,9027173541
+## Email
+sc694887@gmail.com
